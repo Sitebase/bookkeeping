@@ -1,5 +1,3 @@
-# open "mailto:dirk@trivius.be?subject=Sitebase documenten&body=Beste Dirk,In bijlage mijn documenten voor vorige maand."
-
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 cd .. # PDF are in sub folders of the parent folder
